@@ -1,0 +1,14 @@
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\bin\Debug\net8.0\Ödev_003.exe
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\bin\Debug\net8.0\Ödev_003.deps.json
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\bin\Debug\net8.0\Ödev_003.runtimeconfig.json
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\bin\Debug\net8.0\Ödev_003.dll
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\bin\Debug\net8.0\Ödev_003.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\obj\Debug\net8.0\Ödev_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\obj\Debug\net8.0\Ödev_003.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\obj\Debug\net8.0\Ödev_003.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\obj\Debug\net8.0\Ödev_003.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\obj\Debug\net8.0\Ödev_003.dll
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\obj\Debug\net8.0\refint\Ödev_003.dll
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\obj\Debug\net8.0\Ödev_003.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\obj\Debug\net8.0\Ödev_003.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\Bilge Adam\Ödevler\Consol Uuygulamaları\ÖDEVLER\Ödev_003\obj\Debug\net8.0\ref\Ödev_003.dll
